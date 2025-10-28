@@ -4,8 +4,8 @@ class Solution {
         int last = nums.length-1;
        
         while(first <= last){
-            int mid  = first +(last-first)/2;
-            
+            int mid  = (last+first)/2;
+
             if(target>nums[mid]){
                 first = mid+1;
             }
