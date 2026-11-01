@@ -2,33 +2,31 @@
  * @param {number[]} height
  * @return {number}
  */
-var trap = function (height) {
+var trap = function (arr) {
+    let left = new Array(arr.length);
+    left[0] = arr[0];
+    let lMax = left[0];
 
-    let totalUnit = 0
-    let left = new Array(height.length);
-    left[0] = height[0];
+    let right = new Array(arr.length)
+    right[right.length - 1] = arr[arr.length - 1];
 
+    let rMax = right[right.length - 1];
 
-    let right = new Array(height.length);
-    right[right.length - 1] = height[height.length - 1];
-
-    let leftMax = left[0];
-    let rightMax = right[right.length - 1];
-
-    for (let i = 1; i < height.length; i++) {
-        leftMax = Math.max(leftMax, height[i]);
-        left[i] = leftMax;
+    for (let i = 1; i < arr.length; i++) {
+        lMax = Math.max(arr[i], lMax);
+        left[i] = lMax;
     }
 
-    for (let i = height.length - 2; i >= 0; i--) {
-        rightMax = Math.max(rightMax, height[i])
-        right[i] = rightMax;
+    for (let i = right.length - 2; i >= 0; i--) {
+        rMax = Math.max(rMax, arr[i]);
+        right[i] = rMax;
     }
 
-    for (let i = 0; i < height.length; i++) {
-        total = Math.min(left[i], right[i]) - height[i]
-        totalUnit += total
+    let ans = 0;
+
+    for (let i = 0; i < arr.length; i++) {
+        ans += Math.min(right[i], left[i]) - arr[i]
     }
 
-    return totalUnit;
+    return ans;
 };
