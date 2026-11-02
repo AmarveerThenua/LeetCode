@@ -31,6 +31,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmarveerThenua/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/AmarveerThenua/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,12 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0189-rotate-array/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/AmarveerThenua/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/AmarveerThenua/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
