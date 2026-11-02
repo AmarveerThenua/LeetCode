@@ -2,31 +2,28 @@
  * @param {number[]} height
  * @return {number}
  */
-var trap = function (arr) {
-    let left = new Array(arr.length);
-    left[0] = arr[0];
-    let lMax = left[0];
+var trap = function (height) {
+    let n = height.length;
+    let right = new Array(n)
+    let left = new Array(n)
 
-    let right = new Array(arr.length)
-    right[right.length - 1] = arr[arr.length - 1];
+    left[0] = height[0];
+    right[n - 1] = height[n - 1]
+    let leftMax = left[0];
+    let rightMax = right[n - 1]
 
-    let rMax = right[right.length - 1];
-
-    for (let i = 1; i < arr.length; i++) {
-        lMax = Math.max(arr[i], lMax);
-        left[i] = lMax;
+    for (let i = 0; i < n; i++) {
+        leftMax = Math.max(leftMax, height[i])
+        left[i] = leftMax;
     }
-
-    for (let i = right.length - 2; i >= 0; i--) {
-        rMax = Math.max(rMax, arr[i]);
-        right[i] = rMax;
+    for (let i = n - 2; i >= 0; i--) {
+        rightMax =Math.max(rightMax, height[i]);
+        right[i] = rightMax;
     }
-
-    let ans = 0;
-
-    for (let i = 0; i < arr.length; i++) {
-        ans += Math.min(right[i], left[i]) - arr[i]
+    let totalUnit = 0;
+    for (let i = 0; i < n; i++) {
+        totalUnit += Math.min(right[i],left[i]) - height[i]
     }
+    return totalUnit
 
-    return ans;
 };
