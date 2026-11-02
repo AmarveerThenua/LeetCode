@@ -29,6 +29,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AmarveerThenua/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmarveerThenua/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AmarveerThenua/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmarveerThenua/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +49,8 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/AmarveerThenua/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
