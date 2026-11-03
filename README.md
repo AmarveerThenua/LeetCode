@@ -33,6 +33,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0189-rotate-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AmarveerThenua/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AmarveerThenua/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AmarveerThenua/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
