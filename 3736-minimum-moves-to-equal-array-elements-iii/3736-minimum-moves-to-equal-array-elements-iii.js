@@ -16,12 +16,7 @@ var minMoves = function (nums) {
     }
 
     for (let i = 0; i < nums.length; i++) {
-        if (nums[i] < max) {
-            for (let j = nums[i]; j < max; j++) {
-                nums[i] = nums[i] + 1;
-                count++;
-            }
-        }
+        count += max - nums[i]
     }
 
     return count;
