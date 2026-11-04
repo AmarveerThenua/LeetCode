@@ -26,6 +26,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AmarveerThenua/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AmarveerThenua/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/AmarveerThenua/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -73,6 +74,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AmarveerThenua/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/AmarveerThenua/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AmarveerThenua/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
