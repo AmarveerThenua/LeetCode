@@ -35,6 +35,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0217-contains-duplicate](https://github.com/AmarveerThenua/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AmarveerThenua/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/AmarveerThenua/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AmarveerThenua/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -86,4 +87,8 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AmarveerThenua/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AmarveerThenua/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
