@@ -28,6 +28,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AmarveerThenua/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/AmarveerThenua/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AmarveerThenua/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/AmarveerThenua/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmarveerThenua/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -46,6 +47,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/AmarveerThenua/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AmarveerThenua/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/AmarveerThenua/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
