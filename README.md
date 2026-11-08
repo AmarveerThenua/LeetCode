@@ -42,6 +42,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0977-squares-of-a-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/AmarveerThenua/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmarveerThenua/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AmarveerThenua/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AmarveerThenua/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/AmarveerThenua/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AmarveerThenua/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
