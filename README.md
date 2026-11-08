@@ -38,6 +38,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0217-contains-duplicate](https://github.com/AmarveerThenua/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AmarveerThenua/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0941-valid-mountain-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/AmarveerThenua/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmarveerThenua/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
