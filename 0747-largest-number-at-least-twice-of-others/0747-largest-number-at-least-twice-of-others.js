@@ -11,11 +11,14 @@ var dominantIndex = function (nums) {
 
 
     for (let i = 0; i < nums.length; i++) {
-        if (greater >= nums[i] * 2) {
-            count += 1;
+        if (i != nums.indexOf(greater)) {
+
+            if (greater >= nums[i] * 2) {
+                count += 1;
+            }
         }
     }
-    if (count == nums.length - 1) {
+    if (count == nums.length -1) {
         return nums.indexOf(greater)
     } else {
         return -1
