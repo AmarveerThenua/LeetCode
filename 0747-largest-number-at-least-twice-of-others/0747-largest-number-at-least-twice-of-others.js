@@ -3,24 +3,28 @@
  * @return {number}
  */
 var dominantIndex = function (nums) {
-    let greater = -Infinity;
-    count = 0
-    for (let i = 0; i < nums.length; i++) {
-        greater = Math.max(greater, nums[i])
-    }
+    let max1 = -Infinity;
+    let max2 = -Infinity;
+    let idx = -1
 
 
     for (let i = 0; i < nums.length; i++) {
-        if (i != nums.indexOf(greater)) {
-
-            if (greater >= nums[i] * 2) {
-                count += 1;
-            }
+        if (nums[i] === max1 || nums[i] === max2) {
+            continue;
+        }
+        if (max1 < nums[i]) {
+            max2 = max1;
+            max1 = nums[i]
+            idx = i
+        }
+        else if (max2 < nums[i]) {
+            max2 = nums[i];
         }
     }
-    if (count == nums.length -1) {
-        return nums.indexOf(greater)
-    } else {
-        return -1
+
+    if(max1 >= max2*2){
+        return idx;
+    }else{
+        return -1;
     }
 };
