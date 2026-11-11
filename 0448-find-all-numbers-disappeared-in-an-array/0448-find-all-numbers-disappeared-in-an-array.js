@@ -1,16 +1,16 @@
 var findDisappearedNumbers = function (nums) {
-    let map = new Map();
-    let disappears = [];
+    let seen = new Array(nums.length + 1).fill(false);
+    let result = [];
 
-    for (let i = 0; i < nums.length; i++) {
-        map.set(nums[i], true);
+    for (let num of nums) {
+        seen[num] = true;
     }
 
     for (let i = 1; i <= nums.length; i++) {
-        if (!map.has(i)) {
-            disappears.push(i);
+        if (!seen[i]) {
+            result.push(i);
         }
     }
 
-    return disappears;
+    return result;
 };
