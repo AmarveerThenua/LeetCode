@@ -42,6 +42,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0704-binary-search](https://github.com/AmarveerThenua/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/AmarveerThenua/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/AmarveerThenua/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AmarveerThenua/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -105,6 +106,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0349-intersection-of-two-arrays](https://github.com/AmarveerThenua/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/AmarveerThenua/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/AmarveerThenua/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AmarveerThenua/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/AmarveerThenua/LeetCode/tree/main/1051-height-checker/) | Easy |
