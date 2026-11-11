@@ -1,11 +1,14 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
 var thirdMax = function (nums) {
     let max1 = -Infinity;
     let max2 = -Infinity;
     let max3 = -Infinity;
 
     for (let i = 0; i < nums.length; i++) {
-
-        if (nums[i] === max1 || nums[i] === max2 || nums[i] === max3) {
+        if (nums[i] == max1 || nums[i] == max2 || nums[i] == max3) {
             continue;
         }
 
@@ -22,6 +25,5 @@ var thirdMax = function (nums) {
             max3 = nums[i];
         }
     }
-
-    return max3 === -Infinity ? max1 : max3;
+    return max3 == -Infinity ? max1 : max3;
 };
