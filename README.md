@@ -41,6 +41,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0704-binary-search](https://github.com/AmarveerThenua/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/AmarveerThenua/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AmarveerThenua/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -121,6 +122,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/AmarveerThenua/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/AmarveerThenua/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
