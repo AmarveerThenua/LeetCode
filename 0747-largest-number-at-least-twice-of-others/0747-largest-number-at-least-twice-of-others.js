@@ -6,9 +6,7 @@ var dominantIndex = function (nums) {
     let greater = -Infinity;
     count = 0
     for (let i = 0; i < nums.length; i++) {
-        if (nums[i] > greater) {
-            greater = nums[i]
-        }
+        greater = Math.max(greater, nums[i])
     }
 
 
@@ -17,9 +15,9 @@ var dominantIndex = function (nums) {
             count += 1;
         }
     }
-    if(count == nums.length-1){
+    if (count == nums.length - 1) {
         return nums.indexOf(greater)
-    }else{
+    } else {
         return -1
     }
 };
