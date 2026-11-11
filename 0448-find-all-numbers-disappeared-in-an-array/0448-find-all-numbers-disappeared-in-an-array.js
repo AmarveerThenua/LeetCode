@@ -1,14 +1,17 @@
 var findDisappearedNumbers = function (nums) {
-    let seen = new Array(nums.length + 1).fill(false);
     let result = [];
 
-    for (let num of nums) {
-        seen[num] = true;
+    for (let i = 0; i < nums.length; i++) {
+        let index = Math.abs(nums[i]) - 1;
+
+        if (nums[index] > 0) {
+            nums[index] = -nums[index];
+        }
     }
 
-    for (let i = 1; i <= nums.length; i++) {
-        if (!seen[i]) {
-            result.push(i);
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] > 0) {
+            result.push(i + 1);
         }
     }
 
