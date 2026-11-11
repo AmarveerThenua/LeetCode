@@ -1,26 +1,27 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var thirdMax = function (nums) {
-    nums.sort((a, b) => a - b)
-    let n = nums.length;
-    let k = 1;
-    let duplicate = 0;
-    for (let i = 1; i < nums.length; i++) {
-        if (nums[i] != nums[i - 1]) {
-            nums[k] = nums[i]
-            k++;
+    let max1 = -Infinity;
+    let max2 = -Infinity;
+    let max3 = -Infinity;
+
+    for (let i = 0; i < nums.length; i++) {
+
+        if (nums[i] === max1 || nums[i] === max2 || nums[i] === max3) {
+            continue;
         }
-        else {
-            duplicate++
+
+        if (nums[i] > max1) {
+            max3 = max2;
+            max2 = max1;
+            max1 = nums[i];
+        }
+        else if (nums[i] > max2) {
+            max3 = max2;
+            max2 = nums[i];
+        }
+        else if (nums[i] > max3) {
+            max3 = nums[i];
         }
     }
 
-    if (nums.length-duplicate < 3) {
-        return nums[n - 1-duplicate]
-    }
-    else {
-        return nums[n - 3 - duplicate]
-    }
+    return max3 === -Infinity ? max1 : max3;
 };
