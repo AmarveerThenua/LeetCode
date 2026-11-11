@@ -38,6 +38,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0217-contains-duplicate](https://github.com/AmarveerThenua/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AmarveerThenua/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/AmarveerThenua/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0704-binary-search](https://github.com/AmarveerThenua/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AmarveerThenua/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -94,6 +95,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0001-two-sum](https://github.com/AmarveerThenua/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/AmarveerThenua/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AmarveerThenua/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AmarveerThenua/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
