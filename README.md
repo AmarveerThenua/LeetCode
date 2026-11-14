@@ -91,6 +91,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/AmarveerThenua/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/AmarveerThenua/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -147,4 +148,8 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AmarveerThenua/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/AmarveerThenua/LeetCode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
