@@ -27,6 +27,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AmarveerThenua/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/AmarveerThenua/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/AmarveerThenua/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AmarveerThenua/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -58,6 +59,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/AmarveerThenua/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/AmarveerThenua/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/AmarveerThenua/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -105,6 +107,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/AmarveerThenua/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/AmarveerThenua/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AmarveerThenua/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/AmarveerThenua/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
