@@ -77,6 +77,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0042-trapping-rain-water](https://github.com/AmarveerThenua/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmarveerThenua/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/AmarveerThenua/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0066-plus-one](https://github.com/AmarveerThenua/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/AmarveerThenua/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AmarveerThenua/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AmarveerThenua/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Hash Table
@@ -154,4 +156,9 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/AmarveerThenua/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/AmarveerThenua/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/AmarveerThenua/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
