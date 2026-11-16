@@ -44,6 +44,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [0414-third-maximum-number](https://github.com/AmarveerThenua/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmarveerThenua/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AmarveerThenua/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0463-island-perimeter](https://github.com/AmarveerThenua/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0704-binary-search](https://github.com/AmarveerThenua/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/AmarveerThenua/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AmarveerThenua/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -161,4 +162,16 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/AmarveerThenua/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/AmarveerThenua/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/AmarveerThenua/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/AmarveerThenua/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 <!---LeetCode Topics End-->
