@@ -57,6 +57,7 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AmarveerThenua/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AmarveerThenua/LeetCode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/AmarveerThenua/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/AmarveerThenua/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AmarveerThenua/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -174,4 +175,8 @@ To improve problem-solving skills, learn DSA patterns, and prepare for technical
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/AmarveerThenua/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/AmarveerThenua/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
