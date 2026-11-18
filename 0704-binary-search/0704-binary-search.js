@@ -3,23 +3,23 @@
  * @param {number} target
  * @return {number}
  */
-var search = function (nums, target) {
-    let s = 0;
-    let e = nums.length - 1;
 
-    while (s <= e) {
-        let mid = Math.floor(s + (e - s) / 2);
-
-        if (nums[mid] > target) {
-            e = mid - 1
+function binSearch(nums, target, start, end) {
+    if (start <= end) {
+        let mid = Math.trunc(start + (end - start) / 2)
+        if (nums[mid] == target) {
+            return mid
         }
-        else if (nums[mid] < target) {
-            s = mid + 1;
+        else if (nums[mid] > target) {
+            return binSearch(nums, target, start, mid - 1);
         }
         else {
-            return mid;
+            return binSearch(nums, target, mid + 1, end)
         }
-
     }
-    return -1
+    return -1;
+}
+
+var search = function (nums, target) {
+    return binSearch(nums, target, 0, nums.length - 1);
 };
